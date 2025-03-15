@@ -20,7 +20,7 @@
 
 ### 🌐 `Deploy`
 
-
+https://chat-app-firebase-project92.netlify.app/
 
 ### 🎥 `Screen`
 
